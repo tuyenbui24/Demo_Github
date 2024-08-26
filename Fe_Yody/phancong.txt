@@ -1,0 +1,5 @@
+Bùi Quang Tuyến: phần header,form
+Nguyễn Quốc Việt:phần content ,reponsive
+Nguyễn Đức Ngọc: phần form
+Trần Văn Trường: phần footer
+Đỗ Anh Quân: phần reponsive
